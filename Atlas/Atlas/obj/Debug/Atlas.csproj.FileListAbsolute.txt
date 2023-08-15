@@ -1,0 +1,7 @@
+C:\Users\LAB_08\Documents\SharpDevelop Projects\Atlas\Atlas\obj\Debug\Atlas.csprojResolveAssemblyReference.cache
+C:\Users\LAB_08\Documents\SharpDevelop Projects\Atlas\Atlas\obj\Debug\Atlas.MainForm.resources
+C:\Users\LAB_08\Documents\SharpDevelop Projects\Atlas\Atlas\obj\Debug\Atlas.csproj.GenerateResource.Cache
+C:\Users\LAB_08\Documents\SharpDevelop Projects\Atlas\Atlas\bin\Debug\Atlas.exe
+C:\Users\LAB_08\Documents\SharpDevelop Projects\Atlas\Atlas\bin\Debug\Atlas.pdb
+C:\Users\LAB_08\Documents\SharpDevelop Projects\Atlas\Atlas\obj\Debug\Atlas.exe
+C:\Users\LAB_08\Documents\SharpDevelop Projects\Atlas\Atlas\obj\Debug\Atlas.pdb
